@@ -1,3 +1,5 @@
+This fork was created for study and exploration of Solidity smart contracts and Web3 development
+
 # Update: Head to Cyfrin Updraft
 
 > **ℹ️ Important:**
